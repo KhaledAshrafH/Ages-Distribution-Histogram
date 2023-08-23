@@ -87,7 +87,7 @@ The OpenMP library is used for parallel computation within each process, utilizi
 1. Ensure that you have MPI and OpenMP installed on your system.
 2. Compile the code using the appropriate compiler for MPI and OpenMP.
 3. Execute the compiled program, providing the required inputs as prompted.
-4. The program will read the dataset from the file named "dataset.txt" located in the "/shared" directory.
+4. The program will read the dataset from the file named "dataset.txt".
 5. After processing, the program will display the frequency histogram on the console.
 
 ## Dataset Format
